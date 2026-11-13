@@ -1,0 +1,338 @@
+{
+ "years": {
+  "2027": {
+   "nat": [
+    [
+     "01-01",
+     "Año Nuevo"
+    ],
+    [
+     "01-06",
+     "Epifanía del Señor"
+    ],
+    [
+     "03-19",
+     "San José"
+    ],
+    [
+     "03-26",
+     "Viernes Santo"
+    ],
+    [
+     "03-29",
+     "Lunes de Pascua"
+    ],
+    [
+     "05-01",
+     "Fiesta del Trabajo"
+    ],
+    [
+     "10-09",
+     "Día de la Comunitat Valenciana"
+    ],
+    [
+     "10-12",
+     "Fiesta Nacional de España"
+    ],
+    [
+     "11-01",
+     "Todos los Santos"
+    ],
+    [
+     "12-06",
+     "Día de la Constitución"
+    ],
+    [
+     "12-08",
+     "Inmaculada Concepción"
+    ],
+    [
+     "12-25",
+     "Natividad del Señor"
+    ]
+   ],
+   "loc": {
+    "Albatera": [
+     [
+      "E+8",
+      "San Vicente"
+     ],
+     [
+      "07-25",
+      "Santiago Apóstol"
+     ]
+    ],
+    "Algorfa": [
+     [
+      "E+8",
+      "San Vicente Ferrer"
+     ],
+     [
+      "07-16",
+      "Virgen del Carmen"
+     ]
+    ],
+    "Almoradí": [
+     [
+      "07-30",
+      "Santicos de la Piedra"
+     ],
+     [
+      "11-30",
+      "San Andrés"
+     ]
+    ],
+    "Benejúzar": [
+     [
+      "E+60",
+      "Corpus Christi"
+     ],
+     [
+      "10-07",
+      "Virgen del Rosario"
+     ]
+    ],
+    "Benferri": [
+     [
+      "09-30",
+      "San Jerónimo"
+     ],
+     [
+      "10-07",
+      "Virgen del Rosario"
+     ]
+    ],
+    "Bigastro": [
+     [
+      "E-3",
+      "Jueves Santo"
+     ],
+     [
+      "E+8",
+      "San Vicente Ferrer"
+     ]
+    ],
+    "Callosa de Segura": [
+     [
+      "E-3",
+      "Jueves Santo"
+     ],
+     [
+      "E+8",
+      "San Vicente"
+     ]
+    ],
+    "Catral": [
+     [
+      "02-05",
+      "Fiesta local"
+     ],
+     [
+      "02-06",
+      "Fiesta local"
+     ]
+    ],
+    "Cox": [
+     [
+      "05-15",
+      "San Isidro"
+     ],
+     [
+      "07-16",
+      "Virgen del Carmen"
+     ]
+    ],
+    "Daya Nueva": [
+     [
+      "09-29",
+      "San Miguel"
+     ],
+     [
+      "09-30",
+      "Día de La Morera"
+     ]
+    ],
+    "Daya Vieja": [
+     [
+      "E+8",
+      "San Vicente"
+     ],
+     [
+      "09-08",
+      "Virgen de Monserrate"
+     ]
+    ],
+    "Dolores": [
+     [
+      "E-9",
+      "Viernes de Dolor"
+     ],
+     [
+      "09-21",
+      "Ntra. Sra. de los Dolores"
+     ]
+    ],
+    "Granja de Rocamora": [
+     [
+      "06-29",
+      "San Pedro"
+     ],
+     [
+      "10-07",
+      "Virgen del Rosario"
+     ]
+    ],
+    "Jacarilla": [
+     [
+      "E+8",
+      "San Vicente"
+     ],
+     [
+      "09-08",
+      "Virgen de Belén"
+     ]
+    ],
+    "Orihuela": [
+     [
+      "07-17",
+      "Gloriosa Enseña del Oriol"
+     ],
+     [
+      "09-08",
+      "Virgen de Monserrate"
+     ]
+    ],
+    "Rafal": [
+     [
+      "10-07",
+      "Fiesta local"
+     ],
+     [
+      "10-08",
+      "Fiesta local"
+     ]
+    ],
+    "Redován": [
+     [
+      "09-08",
+      "Fiesta local"
+     ],
+     [
+      "09-29",
+      "Fiesta local"
+     ]
+    ],
+    "San Isidro": [
+     [
+      "05-15",
+      "San Isidro Labrador"
+     ],
+     [
+      "12-07",
+      "San Ambrosio"
+     ]
+    ],
+    "Benijófar": [
+     [
+      "E+8",
+      "2º lunes de Pascua"
+     ],
+     [
+      "07-25",
+      "San Jaime"
+     ]
+    ],
+    "Formentera del Segura": [
+     [
+      "08-24",
+      "Fiesta local"
+     ],
+     [
+      "09-29",
+      "Fiesta local"
+     ]
+    ],
+    "Guardamar del Segura": [
+     [
+      "07-24",
+      "Víspera de Santiago Apóstol"
+     ],
+     [
+      "10-07",
+      "Virgen del Rosario"
+     ]
+    ],
+    "Los Montesinos": [
+     [
+      "07-30",
+      "Segregación del Ayuntamiento"
+     ],
+     [
+      "10-13",
+      "Fiesta local"
+     ]
+    ],
+    "Orihuela Costa": [
+     [
+      "07-17",
+      "Gloriosa Enseña del Oriol"
+     ],
+     [
+      "09-08",
+      "Virgen de Monserrate"
+     ]
+    ],
+    "Pilar de la Horadada": [
+     [
+      "07-30",
+      "Aniversario de la Segregación"
+     ],
+     [
+      "10-13",
+      "Día posterior a la Virgen del Pilar"
+     ]
+    ],
+    "Rojales": [
+     [
+      "06-29",
+      "San Pedro Apóstol"
+     ],
+     [
+      "10-07",
+      "Virgen del Rosario"
+     ]
+    ],
+    "San Fulgencio": [
+     [
+      "01-16",
+      "Patrón San Fulgencio"
+     ],
+     [
+      "10-08",
+      "Virgen del Remedio"
+     ]
+    ],
+    "San Miguel de Salinas": [
+     [
+      "09-28",
+      "Fiesta local"
+     ],
+     [
+      "09-29",
+      "Fiesta local"
+     ]
+    ],
+    "Torrevieja": [
+     [
+      "E+8",
+      "San Vicente Ferrer"
+     ],
+     [
+      "07-16",
+      "Virgen del Carmen"
+     ]
+    ]
+   }
+  }
+ }
+}
